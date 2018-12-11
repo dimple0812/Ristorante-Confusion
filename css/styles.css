@@ -14,8 +14,8 @@
   padding: 20px 0px; }
 
 .jumbotron {
-  margin: 0px auto;
-  padding: 70px 30px;
+  margin:0px auto;
+  padding: 70px 0px 30px 0px;
   background: #9575CD;
   color: floralwhite; }
 
@@ -51,3 +51,23 @@ body {
   right: 0px;
   position: absolute;
   bottom: 0px; }
+
+#loginmodal .modal-header {
+  background: #512DA8;
+  color: white; }
+  #loginmodal .modal-header #buttonClose {
+    color: white; }
+
+#loginmodal .modal-body {
+  background-color: #D1C4E9; }
+
+#reserveTable .modal-header {
+  background: #512DA8;
+  color: white; }
+  #reserveTable .modal-header #buttonClose {
+    color: white; }
+
+#reserveTable .modal-body {
+  background-color: #D1C4E9; }
+
+

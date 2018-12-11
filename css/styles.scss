@@ -65,3 +65,27 @@ body{
     bottom: 0px;
 
 }
+#loginmodal{
+    .modal-header{
+        background: $background-dark;
+        color: white;
+        #buttonClose{
+            color:white;
+        }
+    }
+    .modal-body{
+        background-color:$background-pale;
+    }
+} 
+#reserveTable{
+    .modal-header{
+        background: $background-dark;
+        color: white;
+        #buttonClose{
+            color:white;
+        }
+    }
+    .modal-body{
+        background-color:$background-pale;
+    }
+}
